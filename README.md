@@ -9,3 +9,4 @@ LINEAR REGRESSION:
 
 a. Import the given “Salary_Data.csv” b. Split the data in train_test partitions, such that 1/3 of the data is reserved as test subset. c. Train and predict the model. d. Calculate the mean_squared error e. Visualize both train and test data using scatter plot.
 
+
